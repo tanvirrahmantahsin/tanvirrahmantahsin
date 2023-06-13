@@ -50,7 +50,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">☎ Connect with me:</h3>
 
 ###
 
@@ -71,5 +71,13 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">☕ Buy me a coffee!</h3>
+
+###
+
+<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ###
