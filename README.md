@@ -25,10 +25,7 @@ I’m a Web Developer with a strong passion for creating user-friendly, responsi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirrahmantahsin&layout=compact)
 
 ## ☕ Connect with me!
-[<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/tanvirrahmantahsin.1/)  
-[<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/tanvirrahman_tahsin/)  
-[<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/tanvirtahsin_1)  
-[<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvirrahmantahsin/)  
+[<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/tanvirrahmantahsin.1/)  [<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/tanvirrahman_tahsin/)  [<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://x.com/tanvirtahsin_1)  [<img src='https://github.com/tanvirrahmantahsin/tanvirrahmantahsin/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvirrahmantahsin/)  
 
 ## 📧 For Business Inquiries 
 ✅  ► tanvirrahmantahsin50@gmail.com
